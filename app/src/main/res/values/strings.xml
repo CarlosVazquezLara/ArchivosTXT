@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivosTXT</string>
+    <string name="mtitulo">Manejo de Archivos de Texto</string>
+    <string name="tnumbre">Ingrese su nombre</string>
+    <string name="tcontenido">Contenido del archivo</string>
+    <string name="mgraba">Grabar</string>
+</resources>
